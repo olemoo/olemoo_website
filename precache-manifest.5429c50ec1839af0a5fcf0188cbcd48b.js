@@ -1,31 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51b176685436ac018ab781a3d56b0f54",
+    "revision": "f95f16c752582c3361db2ff4a9de7651",
     "url": "/olemoo_website/index.html"
   },
   {
-    "revision": "5dd3c441c8d023a6e6d1",
-    "url": "/olemoo_website/static/css/main.2dd94ed3.chunk.css"
+    "revision": "3a54d669df780ddf8621",
+    "url": "/olemoo_website/static/css/main.d8d5b7aa.chunk.css"
   },
   {
-    "revision": "b62a2a094799cbdc7db8",
-    "url": "/olemoo_website/static/js/2.57d625d6.chunk.js"
+    "revision": "7b0bdb7de32551cb17bb",
+    "url": "/olemoo_website/static/js/2.5c56f1e9.chunk.js"
   },
   {
-    "revision": "c97fb91e7dd1c7b19ae67fb152a2e6b2",
-    "url": "/olemoo_website/static/js/2.57d625d6.chunk.js.LICENSE.txt"
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/olemoo_website/static/js/2.5c56f1e9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5dd3c441c8d023a6e6d1",
-    "url": "/olemoo_website/static/js/main.67e7688b.chunk.js"
+    "revision": "3a54d669df780ddf8621",
+    "url": "/olemoo_website/static/js/main.98d2d1e5.chunk.js"
   },
   {
     "revision": "60a92d555c0068585645",
     "url": "/olemoo_website/static/js/runtime-main.33084009.js"
-  },
-  {
-    "revision": "d365925dcac380346b5b76846da20670",
-    "url": "/olemoo_website/static/media/drink.d365925d.svg"
   },
   {
     "revision": "9a031b01c90ddfaa886ac93e8b0e217e",

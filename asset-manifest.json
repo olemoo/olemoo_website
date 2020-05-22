@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/olemoo_website/static/css/main.2dd94ed3.chunk.css",
-    "main.js": "/olemoo_website/static/js/main.67e7688b.chunk.js",
-    "main.js.map": "/olemoo_website/static/js/main.67e7688b.chunk.js.map",
+    "main.css": "/olemoo_website/static/css/main.d8d5b7aa.chunk.css",
+    "main.js": "/olemoo_website/static/js/main.98d2d1e5.chunk.js",
+    "main.js.map": "/olemoo_website/static/js/main.98d2d1e5.chunk.js.map",
     "runtime-main.js": "/olemoo_website/static/js/runtime-main.33084009.js",
     "runtime-main.js.map": "/olemoo_website/static/js/runtime-main.33084009.js.map",
-    "static/js/2.57d625d6.chunk.js": "/olemoo_website/static/js/2.57d625d6.chunk.js",
-    "static/js/2.57d625d6.chunk.js.map": "/olemoo_website/static/js/2.57d625d6.chunk.js.map",
+    "static/js/2.5c56f1e9.chunk.js": "/olemoo_website/static/js/2.5c56f1e9.chunk.js",
+    "static/js/2.5c56f1e9.chunk.js.map": "/olemoo_website/static/js/2.5c56f1e9.chunk.js.map",
     "index.html": "/olemoo_website/index.html",
-    "precache-manifest.e67185ec294a7b06fe34165bb778499e.js": "/olemoo_website/precache-manifest.e67185ec294a7b06fe34165bb778499e.js",
+    "precache-manifest.5429c50ec1839af0a5fcf0188cbcd48b.js": "/olemoo_website/precache-manifest.5429c50ec1839af0a5fcf0188cbcd48b.js",
     "service-worker.js": "/olemoo_website/service-worker.js",
-    "static/css/main.2dd94ed3.chunk.css.map": "/olemoo_website/static/css/main.2dd94ed3.chunk.css.map",
-    "static/js/2.57d625d6.chunk.js.LICENSE.txt": "/olemoo_website/static/js/2.57d625d6.chunk.js.LICENSE.txt",
-    "static/media/drink.svg": "/olemoo_website/static/media/drink.d365925d.svg",
+    "static/css/main.d8d5b7aa.chunk.css.map": "/olemoo_website/static/css/main.d8d5b7aa.chunk.css.map",
+    "static/js/2.5c56f1e9.chunk.js.LICENSE.txt": "/olemoo_website/static/js/2.5c56f1e9.chunk.js.LICENSE.txt",
     "static/media/oleFooter.css": "/olemoo_website/static/media/footer-bg-tablet.19238a71.jpg",
     "static/media/footer-fassai-logo.png": "/olemoo_website/static/media/footer-fassai-logo.9b98aea3.png",
     "static/media/olemoo_logo.png": "/olemoo_website/static/media/olemoo_logo.27fb5484.png"
   },
   "entrypoints": [
     "static/js/runtime-main.33084009.js",
-    "static/js/2.57d625d6.chunk.js",
-    "static/css/main.2dd94ed3.chunk.css",
-    "static/js/main.67e7688b.chunk.js"
+    "static/js/2.5c56f1e9.chunk.js",
+    "static/css/main.d8d5b7aa.chunk.css",
+    "static/js/main.98d2d1e5.chunk.js"
   ]
 }
