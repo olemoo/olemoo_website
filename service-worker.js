@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/olemoo_website/precache-manifest.5429c50ec1839af0a5fcf0188cbcd48b.js"
+  "/olemoo_website/precache-manifest.b0a57d74eb98d565b2577a93df21ca00.js"
 );
 
 self.addEventListener('message', (event) => {
